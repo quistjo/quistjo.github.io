@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;1,400&family=Open+Sans:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+
+.navbar {
+    font-family: 'Crimson Pro', serif;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li {
+    float: left;
+    padding-right: 80px;
+}
+
+.navbar li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    font-weight: 500;
+    color: #0094FF;
+}
+
+.center-container p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
+
+.center-container {
+    width: 750px;
+    padding-top: 100px;
+    margin-left: 96px;
+}
