@@ -43,3 +43,19 @@
     padding-top: 100px;
     margin-left: 96px;
 }
+
+.writeup-container p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.writeup-container h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+}
+
+.writeup-container {
+    width: 750px;
+    padding-top: 100px;
+    margin-left: 96px;
+}
